@@ -1,0 +1,7 @@
+flask
+aiogram
+python-dotenv
+#sqlite3  # Built-in, optional
+stripe
+paystackease
+requests
